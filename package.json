@@ -1,0 +1,24 @@
+{
+  "name": "amd-bower-gulp",
+  "version": "0.0.0",
+  "description": "A javascript sample project that uses amd, bower, gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctranxuan/amd-bower-gulp.git"
+  },
+  "keywords": [
+    "amd",
+    "bower",
+    "gulp"
+  ],
+  "author": "ctranxuan",
+  "license": "Apache 2 License, http://www.apache.org/licenses/",
+  "bugs": {
+    "url": "https://github.com/ctranxuan/amd-bower-gulp/issues"
+  },
+  "homepage": "https://github.com/ctranxuan/amd-bower-gulp"
+}
