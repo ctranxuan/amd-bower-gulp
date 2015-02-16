@@ -19,5 +19,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "cryptojslib": "https://github.com/sytelus/CryptoJS.git#v3.1.2"
+  }
 }

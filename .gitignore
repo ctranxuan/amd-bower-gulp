@@ -124,3 +124,6 @@ bower_components
 .bower-registry
 .bower-tmp
 
+### Gulp ###
+
+dist
